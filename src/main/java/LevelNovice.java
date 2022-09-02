@@ -23,7 +23,7 @@ public class LevelNovice {
         if (nameLength.length() > 0) {
             return "The length of " + nameLength + " is greater than 0";
         } else {
-            return "The length of " + nameLength + " is 0";
+            return "The length of a blank name " + nameLength + " is 0";
         }
     }
 
